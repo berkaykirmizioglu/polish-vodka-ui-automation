@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Homepage test","Checks usability of age form","SUCCESS","2019-09-06T17:05:06.342+03:00[Europe/Istanbul]","0.0","5.66"
+"Homepage test","Should see the success message after age validation form","SUCCESS","2019-09-06T17:05:12.343+03:00[Europe/Istanbul]","0.0","6.42"
+"Homepage test","Should see validation message after age validation form on age < 18","SUCCESS","2019-09-06T17:05:18.829+03:00[Europe/Istanbul]","0.0","5.09"

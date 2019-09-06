@@ -1,0 +1,1 @@
+[{"displayName":"Homepage","name":"Homepage","id":"Homepage","type":"feature","path":"","narrative":{"name":"Narrative","text":""},"children":[{"displayName":"Homepage test","name":"Homepage test","id":"Homepage test","type":"story","path":"homepage","narrative":{"name":"Narrative","text":"As a user\nI want to check polish vodka website homepage"},"parent":"Homepage"}]}]
